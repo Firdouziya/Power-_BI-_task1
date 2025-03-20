@@ -8,3 +8,4 @@ DURATION:4 Weeks
 MENTOR:NEELA SANTHOSH
 
 Task 1: CREATE A SALES DASHBOARD
+![Image](https://github.com/user-attachments/assets/32deb56a-5583-442f-8d43-1e59903530b6)
